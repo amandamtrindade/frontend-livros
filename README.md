@@ -1,4 +1,4 @@
-# Catálogo de Livros (React)
+# Catálogo de Livros (React) Lista 2 
 
 ## Objetivo
 Interface em React que consulta a API de livros (Flask) e exibe os livros na tela quando o usuário clica em "Buscar Livros".
