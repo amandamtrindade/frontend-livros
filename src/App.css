@@ -1,0 +1,24 @@
+.container {
+  max-width: 600px;
+  margin: 2rem auto;
+  font-family: sans-serif;
+  padding: 0 1rem;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.livro {
+  border: 1px solid #888;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+}
+
+.erro {
+  color: crimson;
+  font-weight: bold;
+}
